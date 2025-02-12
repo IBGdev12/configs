@@ -31,7 +31,7 @@ Asegúrate de tener los siguientes requisitos antes de instalar estas configurac
    git clone https://github.com/IBGdev12/configs.git
    ```
 2. Navega al directorio de las configuraciones con tu File Manager favorito
-3. Mueve la carpeta de nvim hacia ~/.config/nvim
+3. Mueve la carpeta de config/nvim hacia ~/.config/nvim
 4. Copia el contenido de la carpeta Agave dentro de Fonts y cópialo hacia el directorio ~/.local/share/fonts
 5. Haz lo mismo con la carpeta JetBrainsMono pero copiando la carpeta y no el contenido
 
