@@ -16,10 +16,10 @@
 6. [Licencia](#licencia)
 
 ## Introducción
-Estas configuraciones estan destinadas a mejorar tu experiencia de trabajo con NeoVim con una configuracion optimizada para este.
+Estas configuraciones estan destinadas a mejorar tu experiencia de trabajo con Neovim con una configuracion optimizada para este.
 
 ## Requisitos
-Asegurate de tener los siguientes requisitos antes de instalar estas configuraciones
+Asegúrate de tener los siguientes requisitos antes de instalar estas configuraciones
 
 - Neovim
 - Git
@@ -36,10 +36,10 @@ Asegurate de tener los siguientes requisitos antes de instalar estas configuraci
 5. Haz lo mismo con la carpeta JetBrainsMono pero copiando la carpeta y no el contenido
 
 ## Configuración
-Personaliza Neovim segun tus preferencias utilizando los archivos de configuración proporcionados en este proyecto.
+Personaliza Neovim según tus preferencias utilizando los archivos de configuración proporcionados en este proyecto.
 
 ## Plugins para Neovim
-Mejora tu experiencia de programacion y edición con los siguientes plugins para Neovim
+Mejora tu experiencia de programación y edición con los siguientes plugins para Neovim
 
 - nvim-lualine
 - nvim-tree
