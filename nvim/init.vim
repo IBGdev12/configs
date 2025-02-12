@@ -1,3 +1,7 @@
+" Basic Configurations
+" IBGdev12 GitHub - https://github.com/IBGdev12
+
+
 set number
 set mouse=a
 syntax enable
