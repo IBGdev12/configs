@@ -1,3 +1,10 @@
+# Este archivo solo instala Vim-Plug y los plugins de Neovim, las fuentes se tendran que descargar manualmente
+
+
+
+
+
+
 function presentation
 {
 	echo -e "\n\t=== === === === === === === === === === ==="
@@ -25,6 +32,9 @@ function copyFiles
         cp config/nvim/init.vim $HOME/.config/init.vim
 
     fi
+
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 
 }
 
