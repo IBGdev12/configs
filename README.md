@@ -1,10 +1,12 @@
 <div align="center">
 <br>
+   
 ## Configuraciones y fuentes para NeoVim
 ¡Bienvenido a las configuraciones para Neovim! Estas configuraciones te ayudaran a personalizar NeoVim y proporcionará fuentes para mejorar tu experiencia para programar.
 
 </br>
 </div>
+
 ## Contenido
 1. [Introducción](#introducción)
 2. [Requisitos](#requisitos)
