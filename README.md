@@ -1,8 +1,8 @@
 <div align="center">
 <br>
    
-## Configuraciones y fuentes para NeoVim
-¡Bienvenido a las configuraciones para Neovim! Estas configuraciones te ayudaran a personalizar NeoVim y proporcionará fuentes para mejorar tu experiencia para programar.
+## Configuraciones y fuentes para Neovim
+¡Bienvenido a las configuraciones para Neovim! Estas configuraciones te ayudaran a personalizar Neovim y proporcionará fuentes para mejorar tu experiencia para programar.
 
 </br>
 </div>
@@ -12,7 +12,7 @@
 2. [Requisitos](#requisitos)
 3. [Instalación](#instalación)
 4. [Configuración](#configuración)
-5. [Plugins para NeoVim](#plugins-para-neovim)
+5. [Plugins para Neovim](#plugins-para-neovim)
 6. [Licencia](#licencia)
 
 ## Introducción
@@ -21,7 +21,7 @@ Estas configuraciones estan destinadas a mejorar tu experiencia de trabajo con N
 ## Requisitos
 Asegurate de tener los siguientes requisitos antes de instalar estas configuraciones
 
-- NeoVim
+- Neovim
 - Git
 
 ## Instalación
@@ -36,10 +36,10 @@ Asegurate de tener los siguientes requisitos antes de instalar estas configuraci
 5. Haz lo mismo con la carpeta JetBrainsMono pero copiando la carpeta y no el contenido
 
 ## Configuración
-Personaliza NeoVim segun tus preferencias utilizando los archivos de configuración proporcionados en este proyecto.
+Personaliza Neovim segun tus preferencias utilizando los archivos de configuración proporcionados en este proyecto.
 
-## Plugins para NeoVim
-Mejora tu experiencia de programacion y edición con los siguientes plugins para NeoVim
+## Plugins para Neovim
+Mejora tu experiencia de programacion y edición con los siguientes plugins para Neovim
 
 - nvim-lualine
 - nvim-tree
