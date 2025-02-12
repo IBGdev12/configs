@@ -22,10 +22,12 @@ function copyFiles
     else
         echo -e "\n\tEl directorio no existe copiando ...\n"
 	mkdir $HOME/.config/nvim
-        cp config/nvim/init.vim $HOME/.config/
+        cp config/nvim/init.vim $HOME/.config/init.vim
+
+    fi
 
 }
 
 presentation
 
-
+copyFiles
