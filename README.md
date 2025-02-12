@@ -26,23 +26,23 @@ Asegúrate de tener los siguientes requisitos antes de instalar estas configurac
 - Vim-Plug
 
 ## Instalación
-1. Clona este repositorio a tu máquina local
+1. Clona este repositorio a tu máquina local.
 
    ```bash
    git clone https://github.com/IBGdev12/configs.git
    ```
-2. Navega al directorio de las configuraciones con tu File Manager favorito
-3. Mueve la carpeta de config/nvim hacia ~/.config/nvim (o usar el archivo install.sh)
-4. Copia el contenido de la carpeta Fonts/Agave y cópialo hacia el directorio ~/.local/share/fonts
-5. Haz lo mismo con la carpeta Fonts/JetBrainsMono pero copiando la carpeta y no el contenido
-6. Configura tu terminal de preferencia para que utilize la fuente JetBrains Mono
-7. Para que los plugins sean instalados abre Neovim y escribe :PlugInstall. Luego reinicia Neovim
+2. Navega al directorio de las configuraciones con tu File Manager favorito.
+3. Mueve la carpeta de config/nvim hacia ~/.config/nvim (o usar el archivo install.sh).
+4. Copia el contenido de la carpeta Fonts/Agave y cópialo hacia el directorio ~/.local/share/fonts.
+5. Haz lo mismo con la carpeta Fonts/JetBrainsMono, pero copiando la carpeta y no el contenido.
+6. Configura tu terminal de preferencia para que utilize la fuente JetBrains Mono.
+7. Para que los plugins sean instalados abre Neovim y escribe :PlugInstall. Luego, reinicia Neovim.
 
 ## Configuración
 Personaliza Neovim según tus preferencias utilizando los archivos de configuración proporcionados en este proyecto.
 
 ## Plugins para Neovim
-Mejora tu experiencia de programación y edición con los siguientes plugins para Neovim
+Mejora tu experiencia de programación y edición con los siguientes plugins para Neovim:
 
 - nvim-lualine
 - nvim-tree
