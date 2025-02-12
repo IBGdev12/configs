@@ -23,6 +23,7 @@ Asegúrate de tener los siguientes requisitos antes de instalar estas configurac
 
 - Neovim
 - Git
+- Vim-Plug
 
 ## Instalación
 1. Clona este repositorio a tu máquina local
