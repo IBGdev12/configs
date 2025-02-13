@@ -1,4 +1,6 @@
-# Este archivo solo instala Vim-Plug y los plugins de Neovim, las fuentes se tendran que descargar manualmente
+# Este archivo solo instala Vim-Plug y los plugins de Neovim, las fuentes se tendran que descargar manualmente.
+# Por el momento el instalador solo funciona en Arch Linux y sus derivadas (CachyOS, EndeavourOS, Artix, Manjaro, etc).
+# Usuarios de otras distribuciones deberán instalarlo de forma manual.
 
 
 
