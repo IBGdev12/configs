@@ -38,6 +38,15 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 
 }
 
+function installDependencies
+{
+	echo -e "\n\tInstalando Dependencias"
+	sudo pacman -Syu
+	sudo pacman -S neovim curl gcc git
+}
+
 presentation
+
+installDependencies
 
 copyFiles
