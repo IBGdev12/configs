@@ -32,11 +32,20 @@ Asegúrate de tener los siguientes requisitos antes de instalar estas configurac
    git clone https://github.com/IBGdev12/configs.git
    ```
 2. Navega al directorio de las configuraciones con tu File Manager favorito.
-3. Mueve la carpeta de config/nvim hacia ~/.config/nvim (o usar el archivo install.sh).
-4. Copia el contenido de la carpeta Fonts/Agave y cópialo hacia el directorio ~/.local/share/fonts.
-5. Haz lo mismo con la carpeta Fonts/JetBrainsMono, pero copiando la carpeta y no el contenido.
-6. Configura tu terminal de preferencia para que utilize la fuente JetBrains Mono.
-7. Para que los plugins sean instalados abre Neovim y escribe el comando :PlugInstall. Luego, reinicia Neovim.
+3. Mueve la carpeta de config/nvim hacia ~/.config/nvim (o usar el archivo install.sh con los siguiente comandos).
+
+   Dar permisos para ejecución:
+   ```bash
+   chmod +x install.sh
+   ```
+   Ejecutar el archivo:
+   ```bash
+   ./install.sh
+   ```
+5. Copia el contenido de la carpeta Fonts/Agave y cópialo hacia el directorio ~/.local/share/fonts.
+6. Haz lo mismo con la carpeta Fonts/JetBrainsMono, pero copiando la carpeta y no el contenido.
+7. Configura tu terminal de preferencia para que utilize la fuente JetBrains Mono.
+8. Para que los plugins sean instalados abre Neovim y escribe el comando :PlugInstall. Luego, reinicia Neovim.
 
 ## Configuración
 Personaliza Neovim según tus preferencias utilizando los archivos de configuración proporcionados en este proyecto.
