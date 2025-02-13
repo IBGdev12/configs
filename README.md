@@ -36,7 +36,7 @@ Asegúrate de tener los siguientes requisitos antes de instalar estas configurac
 4. Copia el contenido de la carpeta Fonts/Agave y cópialo hacia el directorio ~/.local/share/fonts.
 5. Haz lo mismo con la carpeta Fonts/JetBrainsMono, pero copiando la carpeta y no el contenido.
 6. Configura tu terminal de preferencia para que utilize la fuente JetBrains Mono.
-7. Para que los plugins sean instalados abre Neovim y escribe :PlugInstall. Luego, reinicia Neovim.
+7. Para que los plugins sean instalados abre Neovim y escribe el comando :PlugInstall. Luego, reinicia Neovim.
 
 ## Configuración
 Personaliza Neovim según tus preferencias utilizando los archivos de configuración proporcionados en este proyecto.
